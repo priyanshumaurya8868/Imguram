@@ -1,7 +1,7 @@
 # Imguram
 Instagram Reels clone (via Imgur Api)<br />
 <br />
-![App Preview gif](https://drive.google.com/file/d/1YdlthVkLBJPaXMdH5Cumaa4_ZuLGODSF/view?usp=sharing)<br/>
+![App Preview gif](https://drive.google.com/file/d/1mwudgSbmmEg-RsAFFtUfiZlHOpDWK-2L/view?usp=sharing)<br/>
 This is built with a modern Android development tech stack including
 👉 Kotlin <br />
 👉 MVVM Architecture<br />
